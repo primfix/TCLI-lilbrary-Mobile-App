@@ -1,0 +1,7 @@
+{
+  "name": "TCLI elibrary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
