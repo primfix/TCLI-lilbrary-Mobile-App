@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TCLI elibrary</string>
+    <string name="title_activity_main">TCLI elibrary</string>
+    <string name="package_name">io.tclilib.org</string>
+    <string name="custom_url_scheme">io.tclilib.org</string>
+</resources>
